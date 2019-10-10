@@ -5,11 +5,11 @@ Tee Markdown muodossa henkilökohtaiseen repositoryyn tiivis ja ytimekäs dokume
 3.	Omat tunnelmat ryhmässä toimimisen suhteen, hyvät ja haasteelliset 
 Ei sanamäärärajoituksia.
 
-Tämän minä tein eli asensin koneelle gitin ja bracketsin! ja bracketsiin asensin markdown prewier ohjelman
+1. Tämän minä tein eli asensin koneelle gitin ja bracketsin! ja bracketsiin asensin markdown prewier ohjelman
 Tein gitin kautta githubiin toolchain kuvauksia yritykselle, jotka suunnittelin työkaluketjuista ja käytin IDE integrated development environmet CI ratkaisuun asti. Sekä perustelin lyhyesti ja tein ratkaisun. 
 
 
-Tärkeimmät asiat jotka opin olivat bracketsin asennus, git bash asennus, laajennuksen hallinnasta markdown preview asennus ensin githubissa loin kansion joko public julkiseksi tai private yksityiseksi, joka tulee automaattisesti omalle tietokoneelle näkyviin. Kansioon pääsin painamalla lipun kuvaa + e näppäintä ja sitten painoin paikallinen levy C  ja sitten käyttäjät ja sieltä valitsin Jenna. Sieltä löysin kansion, jonka loin sinne. 
+2. Tärkeimmät asiat jotka opin olivat bracketsin asennus, git bash asennus, laajennuksen hallinnasta markdown preview asennus ensin githubissa loin kansion joko public julkiseksi tai private yksityiseksi, joka tulee automaattisesti omalle tietokoneelle näkyviin. Kansioon pääsin painamalla lipun kuvaa + e näppäintä ja sitten painoin paikallinen levy C  ja sitten käyttäjät ja sieltä valitsin Jenna. Sieltä löysin kansion, jonka loin sinne. 
 
 Sitten menin gittiin ja kirjoitin cd ja kansion nimen jonka loit githubissa esim cd testi
 Sitten kirjoitin ls cd .. sitten kirjoitin git clone ja kopion githubissa linkki: https://github.com/ ssh vierestä koodin ja liitin se gittiin git clonen viereen. Sitten painoin git status ja katsoin missä tilassa olin. Sitten kirjoitin cd kansion nimi esim cd testi. Sitten menin bracketsiin ja aloin kirjoittamaan tekstiä. Painoin näytä -> markdown prewier. Sitten painoin tiedosto -> uusi ja sitten menin paikallinen levy c -> käyttäjät -> jenna -> etsin kansion jonka tein esim testi. Testi kansioon tallensin sen md muodoss testi.md tai new.md voit antaa sille ihan minkä nimen haluat md muodossa. Sitten lopuksi tallenna. Sitten menin takaisin gittiin ja kirjoitin sinne git add tiedoston nimi testi.md. Sitten katoin missä tilassa olin kirjoittamalla git status. Sitten kirjoitin kommentin git commit -m "hauskaa" 
